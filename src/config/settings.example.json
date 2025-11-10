@@ -1,0 +1,5 @@
+{
+  "baseUrl": "https://www.ryanair.com/api/booking/v4/en-gb/availability",
+  "timeoutSeconds": 10,
+  "proxyUrl": "http://username:password@your-proxy-host:3128"
+}
