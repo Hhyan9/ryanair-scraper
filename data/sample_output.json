@@ -1,0 +1,25 @@
+[
+  {
+    "Origin": "VIE",
+    "Destination": "BCN",
+    "Flight duration": "02:20",
+    "Flight number": "FR 7350",
+    "Price": 19.79,
+    "Time departure": "2021-05-02T16:55:00.000",
+    "Time arrival": "2021-05-02T19:15:00.000",
+    "key": "FR~7350~ ~~VIE~05/02/2021 16:55~BCN~05/02/2021 19:15~~",
+    "scrapedAt": "2021-03-16T14:56:12.589Z",
+    "regularFare": {
+      "fareClass": "W",
+      "fares": [
+        {
+          "type": "ADT",
+          "amount": 19.79,
+          "count": 1,
+          "hasDiscount": true
+        }
+      ]
+    },
+    "operatedBy": "Buzz"
+  }
+]
